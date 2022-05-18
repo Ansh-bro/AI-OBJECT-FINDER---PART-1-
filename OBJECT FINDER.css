@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+#Start, #NumberOfObjects, #Status
+{
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(221, 207, 207);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(107, 12, 239);
+    line-height: 30px;
+    text-align: center;
+}
+
+
